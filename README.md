@@ -1,2 +1,2 @@
-## [Fangame Summer Feast](iwfasf.github.io)
+## [Fangame Summer Feast](https://iwfasf.github.io)
 > FASF大会官方网站
