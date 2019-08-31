@@ -1,2 +1,1 @@
-# iwfasf.github.io
-Fangame Summer Feast
+## [Fangame Summer Feast](iwfasf.github.io)
