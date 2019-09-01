@@ -1,0 +1,17 @@
+.fasf{
+	position:relative;
+	display:inline-block;
+	width:320px;height:180px;margin:16px;
+	background-position:center;
+	background-size:cover;
+	box-shadow:2px 2px 3px 0 rgba(0,0,0,0.2);
+}
+.fasf a{
+	display:block;width:100%;height:100%;
+	text-decoration:none;line-height:180px;
+	background:rgba(0,0,0,0);color:#FFF;
+	transition:background 0.5s;text-shadow:0 0 2px #000,0 0 8px #000;
+}
+.fasf a:hover{
+	background:rgba(0,0,0,0.2);
+}

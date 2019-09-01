@@ -1,1 +1,3 @@
-#BG{position:fixed;left:0;top:0;width:100%;height:100%;background:linear-gradient(0,hsl(228,60%,64%),hsl(200,100%,85%) 100%);}
+#BG{position:fixed;left:0;top:0;width:100%;height:100%;background:linear-gradient(0,hsl(228,60%,64%),hsl(200,100%,85%) 100%)}
+#warp{text-align:center}
+#bottom{position:fixed;left:0;bottom:0;width:100%;height:50px;text-align:center}
